@@ -5,10 +5,13 @@ Professor: Dr Rémi Bardenet
 Original authors: Lionel Cucala, Jean-Michel Marin, Christian P. Robert and D.M. Titterington
 
 The file MFML.ipynb is the main part, it include the method in this paper we have implemented.
-At first, it's error  rate by cross validation leave one outof original KNN with different k.
+At first, it's error rate by cross validation leave one outof original KNN with different k.
 I also define a class to simplify the computation of neighbour, potential function, etc.
 
-It's also have the method I write in 6.1.
+It's also have the method I write in 6.1, after run the first three box.
+And run Plot_Maxlikelihood_potts_model function to get the plot of likelihood and the value of max likelihood for Potts model.
+Next run Plot_Maxlikelihood_boltzmann_model function to get the plot of likelihood and the value of max likelihood for Boltzmann model.
+
 
 
 For the file KNN_radio.ipynb is about the method I proposed with chapter 6.2. We can call it KNN radio method.
