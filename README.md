@@ -4,11 +4,11 @@ Authors: Andra Chiorcea and Zhengyang Lan
 Professor: Dr Rémi Bardenet 
 Original authors: Lionel Cucala, Jean-Michel Marin, Christian P. Robert and D.M. Titterington
 
-The file MFML.ipynb is the main part, it includes the methods form this paper that we have implemented.
+The file MFML.ipynb is the main part, it includes the methods from this paper that we have implemented.
 At first, it's the error rate by cross validation leave one out of original KNN with different k.
 I also define a class to simplify the computation of neighbour, potential function, etc.
 
-It also containes the method written in 6.1, you should run that after running the first three boxes.
+It also contains the method written in 6.1, you should run that after running the first three boxes.
 Run Plot_Maxlikelihood_potts_model function to get the plot of likelihood and the value of max likelihood for Potts model.
 Next run Plot_Maxlikelihood_boltzmann_model function to get the plot of likelihood and the value of max likelihood for Boltzmann model.
 
